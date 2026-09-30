@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Course</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Materi</string>
+    <string name="tab_text_3">Quiz</string>
+
+    <string name="kelas_nama">Pemrograman Perangkat Bergerak</string>
+    <string name="kelas_deskripsi">Kelas praktikum ini membahas dasar-dasar pengembangan aplikasi Android, mulai dari layout, activity, intent, hingga komponen UI dan styling.</string>
+
+    <string name="quiz_empty_title">Quiz Belum Tersedia</string>
+    <string name="quiz_empty_desc">Quiz untuk kelas ini belum dilaksanakan. Silakan cek kembali nanti.</string>
+</resources>
